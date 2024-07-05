@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/guess-game-app.git
+git clone https://github.com/skandalk15/React-Native-Guess-Game.git
 cd guess-game-app
 ```
 
