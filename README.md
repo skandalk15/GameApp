@@ -81,10 +81,6 @@ Contributions are always welcome! If you have suggestions or improvements, pleas
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for using the Guess Game App! Have fun and happy guessing!
