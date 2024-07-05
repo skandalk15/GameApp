@@ -85,4 +85,4 @@ Contributions are always welcome! If you have suggestions or improvements, pleas
 
 Thank you for using the Guess Game App! Have fun and happy guessing!
 
-If you have any questions or need further assistance, feel free to open an issue or contact us at [your-email@example.com].
+If you have any questions or need further assistance, feel free to open an issue or contact us at [sohamkan15@gmail.com].
